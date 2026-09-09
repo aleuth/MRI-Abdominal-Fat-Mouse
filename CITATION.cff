@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "MRI-Abdominal-Fat-Mouse-Analysis-Pipeline"
+message: "If you use this software, please cite it as below."
+type: software
+authors:
+  - family-names: "Leuthardt"
+    given-names: "Andrea S."
+    orcid: "https://orcid.org/0000-0002-8520-4103"
+version: 1.0.0
+doi: 10.5281/zenodo.22675031
+date-released: 2026-09-09
+url: "https://github.com/aleuth/MRI-Abdominal-Fat-Mouse"
